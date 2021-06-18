@@ -23,7 +23,7 @@ My first milestone of the project was creating the circuit for the controller an
 
 [![First Milestone](https://content.instructables.com/ORIG/FZJ/8DYZ/GJHV8UN8/FZJ8DYZGJHV8UN8.png?auto=webp&frame=1&fit=bounds&md=dc082bcd81f7a41e54290dd44579240b)
 
-[![Serial Output]("Screenshot 2021-06-18 125501.jpg")
+[![Serial Output](Serial.jpg)
 
 [![Prototype](221df4cc-6a30-415b-8039-583b9fb83f70.jpg)
 
