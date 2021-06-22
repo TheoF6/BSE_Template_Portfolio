@@ -25,19 +25,24 @@ My first milestone of the project was creating the circuit for the controller an
 
 # Circuit
 
+This is the circuit diagram for the device. I didn't have enough buttons, so I only used 8 of the digital inputs instead of all 12.
+
 ![First Milestone](https://content.instructables.com/ORIG/FZJ/8DYZ/GJHV8UN8/FZJ8DYZGJHV8UN8.png?auto=webp&frame=1&fit=bounds&md=dc082bcd81f7a41e54290dd44579240b)
 
-This is the circuit diagram for the device. I didn't have enough buttons, so I only used 8 of the digital inputs instead of all 12.
+
 
 # Serial
 
+This is the serial output in the Arduino software. It seems like an unintelligable mix of characters, because it is. Whenever a knob or button is changed, it just writes a lot of blank squares and backwards question marks. This is because, as I explained in the video, the MIDI signal is being sent across a serial port instead of a MIDI port, where the signal would be readable.
+
 ![Serial Output](Serial.jpg)
 
-This is the serial output in the Arduino software. It seems like an unintelligable mix of characters, because it is. Whenever a knob or button is changed, it just writes a lot of blank squares and backwards question marks. This is because, as I explained in the video, the MIDI signal is being sent across a serial port instead of a MIDI port, where the signal would be readable.
 
 # Prototype
 
+This is the physical prototype of the MIDI controller.
+
 ![Prototype](221df4cc-6a30-415b-8039-583b9fb83f70.jpg)
 
-This is the physical prototype of the MIDI controller.
+
 
