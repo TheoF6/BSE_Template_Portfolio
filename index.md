@@ -23,6 +23,8 @@ My first milestone of the project was creating the circuit for the controller an
 
 <html><iframe width="560" height="315" src="https://www.youtube.com/embed/ZxN7ZVL8-co" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></html>
 
+
+
 # Circuit
 
 This is the circuit diagram for the device. I didn't have enough buttons, so I only used 8 of the digital inputs instead of all 12.
@@ -38,11 +40,9 @@ This is the serial output in the Arduino software. It seems like an unintelligab
 ![Serial Output](Serial.jpg)
 
 
+
 # Prototype
 
 This is the physical prototype of the MIDI controller.
 
 ![Prototype](221df4cc-6a30-415b-8039-583b9fb83f70.jpg)
-
-
-
