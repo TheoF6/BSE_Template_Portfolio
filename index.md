@@ -38,7 +38,13 @@ Next, I had to map the buttons to actually make a sound in the software. For mos
 
 ![Drums](Drumpads.jpg)
 
-The drums are automatically mapped to the section that is marked with the X, and they needed to be mapped to the section marked with the checkmark. The checkmark section is two octaves higher than the X section, so it was a fairly simple fix to change the code 
+The drums are automatically mapped to the section that is marked with the X, and they needed to be mapped to the section marked with the checkmark. The checkmark section is two octaves higher than the X section, so it was a fairly simple fix to change the starting note from C0 to C2.
+
+![C0](C0.jpg)
+
+![C2](C2.jpg)
+
+
 
 
 
