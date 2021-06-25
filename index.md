@@ -58,7 +58,7 @@ My first milestone of the project was creating the circuit for the controller an
 
 
 
-# Circuit
+
 
 
 
@@ -68,7 +68,7 @@ This is the circuit diagram for the device. I didn't have enough buttons, so I o
 
 
 
-# Serial
+
 
 This is the serial output in the Arduino software. It seems like an unintelligable mix of characters, because it is. Whenever a knob or button is changed, it just writes a lot of blank squares and backwards question marks. This is because, as I explained in the video, the MIDI signal is being sent across a serial port instead of a MIDI port, where the signal would be readable.
 
@@ -76,7 +76,7 @@ This is the serial output in the Arduino software. It seems like an unintelligab
 
 
 
-# Prototype
+
 
 This is the physical prototype of the MIDI controller.
 
