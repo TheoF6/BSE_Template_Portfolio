@@ -8,7 +8,13 @@ A MIDI controller is a device used to control Digital Audio Workstations, or DAW
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+For my final milestone, I added two modifications to my already finished base project. The first one is a case. I got some wood planks, cut them, sanded them, and drilled some holes in them. Then I glued the pieces together to make a wooden box that could house my project. This was a fairly straightforward modification, unlike the other one.
+
+My next modification was adding an audio spectrum analyzer, using an OLED screen and an external microphone unit. This audio spectrum analyzer works fairly well, however it sacrifices some responsiveness of the base project. The spectrum analyzer requires lots of processing power on one of the analog inputs on the Arduino. The other analog inputs, in turn, are not as smooth and responsive as before. The spectrum analyzer also causes the digital inputs (buttons) to be a bit slower.
+
+At first, the spectrum analyzer seemed very daunting and challenging to add on. I was researching and only a few people had done it before, and no one had ever integrated it into a MIDI controller. So I got the analyzer to work on its own, independent of the MIDI controller's code. I had to tweak a little bit of the code to make the analyzer more sensitive and show on the display. The challenging part was integrating the code into the MIDI controller's code. I couldn't simply copy and paste the code into the other one, because there was some overlap in variables and functions in both codes. Since both codes use analog ports as inputs, I had to make it so the MIDI controller code ignored the audio input of the external mic. I simply changed the code so that only 3 of the 6 analog inputs were read. 
+
+From then on, it wasn't as difficult. I just had to mount my prototype in the case.
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
