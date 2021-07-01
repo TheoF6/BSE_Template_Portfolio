@@ -23,7 +23,7 @@ My next modification was adding an audio spectrum analyzer, using an OLED screen
 
 ![spectrum](d0178215-cfb2-46e7-9120-84fe0c66db0e.jpg)
 
-At first, the spectrum analyzer seemed very daunting and challenging to add on. I was researching and only a few people had done it before, and no one had ever integrated it into a MIDI controller. The first step of this modification was to get the OLED screeen working. I found a code that allowed me to display a custom image on the screen, and it seemed to work fine.
+At first, the spectrum analyzer seemed very daunting and challenging to add on. I was researching and only a few people had done it before, and no one had ever integrated it into a MIDI controller. The first step of this modification was to get the OLED screen working. I found a code that allowed me to display a custom image on the screen, and it seemed to work fine.
 
 ![Fishe](af92511c-3bb9-4c74-8286-3bb0555cde82.jpg)
 
