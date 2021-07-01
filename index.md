@@ -11,19 +11,22 @@ A MIDI controller is a device used to control Digital Audio Workstations, or DAW
 
 ![Third Image](28fb4576-9bc4-40a2-9b16-a2648c91c254.jpg)
 
-![Fourth Image](bdb7fe18-8753-4d97-b013-166ece17e94c.jpg)
   
 # Final Milestone
 For my final milestone, I added two modifications to my already finished base project. The first one is a case. I got some wood planks, cut them, sanded them, and drilled some holes in them. Then I glued the pieces together to make a wooden box that could house my project. This was a fairly straightforward modification, unlike the other one.
 
+
 ![Wood](32d0f5de-4c15-4af8-816b-bb82d3965e02.jpg)
+
 
 My next modification was adding an audio spectrum analyzer, using an OLED screen and an external microphone unit. This audio spectrum analyzer works fairly well, however it sacrifices some responsiveness of the base project. The spectrum analyzer requires lots of processing power on one of the analog inputs on the Arduino. The other analog inputs, in turn, are not as smooth and responsive as before. The spectrum analyzer also causes the digital inputs (buttons) to be a bit slower.
 
 ![spectrum](d0178215-cfb2-46e7-9120-84fe0c66db0e.jpg)
 
 At first, the spectrum analyzer seemed very daunting and challenging to add on. I was researching and only a few people had done it before, and no one had ever integrated it into a MIDI controller. The first step of this modification was to get the OLED screeen working. I found a code that allowed me to display a custom image on the screen, and it seemed to work fine.
+
 ![Fishe](af92511c-3bb9-4c74-8286-3bb0555cde82.jpg)
+
 Next I got the analyzer to work on its own, independent of the MIDI controller's code. While the hardware part was simple (a microphone and an OLED simply connected to an Arduino), I had to do a lot of research before coding. When I tried using someone else's code for this, it would only display the waves if I screamed into the mic. I ended up experimenting by changing a few values, and when I changed the Y-axis draw limit, the spectrum analyzer appeared on the screen. 
 
 ![spectrum 2](7fbc2678-8166-4b3d-898d-d3dc840d03c8.jpg)
