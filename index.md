@@ -5,9 +5,13 @@ A MIDI controller is a device used to control Digital Audio Workstations, or DAW
 |:--:|:--:|:--:|:--:|
 | Theo Fong | Henry M. Gunn High School | Electrical/Mechanical Engineering | Incoming Sophomore
 
+
+
 ![Headstone Image](16093620-c609-4088-8975-6e36c6983763.jpg)
 
 ![Second Image](6bc84dde-0556-47de-8c30-2126905b7a15.jpg)
+
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/0vSc_MenAMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></html>
 
   
 # Final Milestone
