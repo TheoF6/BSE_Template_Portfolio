@@ -109,3 +109,7 @@ This is the serial output in the Arduino software. It seems like an unintelligab
 This is the physical prototype of the MIDI controller.
 
 ![Prototype](221df4cc-6a30-415b-8039-583b9fb83f70.jpg)
+
+# Reflection
+
+I think that this program has really helped me build engineering skills, both physically and mentally. Some physical skills include things like soldering and wiring circuits, which I think are essential foundational skills as I move forward. Mentally, I think the main lesson I've learned is to have perseverance, even if a task may seem daunting or challenging. I encountered many roadblocks along the way that may have seemed impossible to overcome, like fixing difficult code. However, it always seemed that as I continued to move forward, these obstacles became easier and easier to hurdle. I definitely enjoyed seeing progress throughout the project, and it was incredibly satisfying to see the project working after lots of hard work.
