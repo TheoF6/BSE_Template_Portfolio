@@ -13,6 +13,8 @@ A MIDI controller is a device used to control Digital Audio Workstations, or DAW
 # Final Milestone
 For my final milestone, I added two modifications to my already finished base project. The first one is a case. I got some wood planks, cut them, sanded them, and drilled some holes in them. Then I glued the pieces together to make a wooden box that could house my project. This was a fairly straightforward modification, unlike the other one.
 
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/c2rp-sEI7rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></html>
+
 
 ![Wood](32d0f5de-4c15-4af8-816b-bb82d3965e02.jpg)
 
