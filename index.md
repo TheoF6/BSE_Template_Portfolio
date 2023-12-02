@@ -93,11 +93,11 @@ The first one was a case. I got some wood planks, cut them, sanded them, and dri
 ![Wood](32d0f5de-4c15-4af8-816b-bb82d3965e02.jpg)
 
 
-My other modification was adding an audio spectrum analyzer, using an OLED screen and an external microphone unit. This audio spectrum analyzer works fairly well, however it sacrifices some responsiveness of the base project. The spectrum analyzer requires lots of processing power on one of the analog inputs on the Arduino. The other analog inputs, in turn, are not as smooth and responsive as before. The spectrum analyzer also causes the digital inputs (buttons) to be a bit slower.
+My other modification was adding an audio spectrum analyzer, using an OLED screen and an external microphone unit. This is a feature that allows the audio output to be visualized in the form of a graph. This audio spectrum analyzer works fairly well, however it sacrifices some responsiveness of the base project. The spectrum analyzer requires lots of processing power on one of the analog inputs on the Arduino. The other analog inputs, in turn, are not as smooth and responsive as before. The spectrum analyzer also causes the digital inputs (buttons) to be a bit slower.
 
 ![spectrum](d0178215-cfb2-46e7-9120-84fe0c66db0e.jpg)
 
-At first, the spectrum analyzer seemed very daunting and challenging to add on. I searched for similar projects online, and found very few. No one had ever integrated a spectrum analyzer into a MIDI controller, either. The first step of this modification was to get the OLED screen working.
+At first, the spectrum analyzer seemed very daunting and challenging to add on. I searched for similar projects online, and a few, but no one had ever integrated a spectrum analyzer into a MIDI controller before. The first step of this modification was to get the OLED screen working.
 
 ![Fishe](af92511c-3bb9-4c74-8286-3bb0555cde82.jpg)
 
