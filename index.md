@@ -1,7 +1,7 @@
 ﻿# Custom MIDI Controller
 A MIDI controller is a device used to control Digital Audio Workstations, or DAWs. DAWs are common software tools used for music production. MIDI controllers typically come with many buttons, keys, and dials that the user can physically interact with to create sounds in the audio software. My project was to make a MIDI controller that can control Ableton live, a DAW.
 
-| **Engineer** | **School** | **Area of Interest** | **Grade** |
+| **Engineer** | **School** | **Area of Interest** | **Grade during Project** |
 |:--:|:--:|:--:|:--:|
 | Theo Fong | Henry M. Gunn High School | Electrical/Mechanical Engineering or Music Technology| Incoming Sophomore
 
