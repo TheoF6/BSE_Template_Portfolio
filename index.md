@@ -15,7 +15,7 @@ A MIDI controller is a device used to control Digital Audio Workstations, or DAW
 
 # First Milestone
 
-My first milestone of the project was creating the circuit for the controller and getting it to send a signal to the computer. To do this, I followed the provided Instructables instructions for how to wire the circuit. It is a fairly simple input circuit, with a few potentiometers and push buttons connected to an Arduino. Next, I uploaded the code that is used for custom MIDI controllers to the Arduino. With the code, the Arduino was able to tell when an input was being changed, and when that happened a signal was sent to the serial port in the Arduino software. The signal is unintelligable because a MIDI signal is being sent across a serial port, and MIDI signals must be converted across a MIDI port in order to be read.
+My first milestone of the project was creating the circuit for the controller and getting it to send a signal to the computer. It was a fairly simple input circuit, with a few potentiometers and push buttons connected to an Arduino. Next, I programmed the Arduino. With the code, the Arduino was able to tell when an input was being changed, and when that happened a signal was sent to the serial port in the Arduino software. The signal is unintelligable because a MIDI signal is being sent across a serial port, and MIDI signals must be converted across a MIDI port in order to be read.
 
 
 <html><iframe width="560" height="315" src="https://www.youtube.com/embed/ZxN7ZVL8-co" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></html>
@@ -26,7 +26,7 @@ My first milestone of the project was creating the circuit for the controller an
 
 
 
-This is the circuit diagram for the device. I didn't have enough buttons, so I only used 8 of the digital inputs instead of all 12.
+This is the circuit diagram for the device. I only used 8 digital inputs (buttons).
 
 ![First Milestone](https://content.instructables.com/ORIG/FZJ/8DYZ/GJHV8UN8/FZJ8DYZGJHV8UN8.png?auto=webp&frame=1&fit=bounds&md=dc082bcd81f7a41e54290dd44579240b)
 
@@ -97,7 +97,7 @@ My other modification was adding an audio spectrum analyzer, using an OLED scree
 
 ![spectrum](d0178215-cfb2-46e7-9120-84fe0c66db0e.jpg)
 
-At first, the spectrum analyzer seemed very daunting and challenging to add on. I searched for similar projects online, and a few, but no one had ever integrated a spectrum analyzer into a MIDI controller before. The first step of this modification was to get the OLED screen working.
+At first, the spectrum analyzer seemed very daunting and challenging to add on. I searched for similar projects online, and found a few, but no one had ever integrated a spectrum analyzer into a MIDI controller before. The first step of this modification was to get the OLED screen working.
 
 ![Fishe](af92511c-3bb9-4c74-8286-3bb0555cde82.jpg)
 
